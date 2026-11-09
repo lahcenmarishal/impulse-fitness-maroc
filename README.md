@@ -38,8 +38,8 @@ Impulse Fitness Maroc propose une plateforme digitale permettant aux visiteurs d
 ## Installation
 
 ```bash
-git clone https://github.com/lahcenmarishal/glow-up-copy-cloud.git
-cd glow-up-copy-cloud
+git clone https://github.com/lahcenmarishal/impulse-fitness-maroc.git
+cd impulse-fitness-maroc
 npm install
 npm run dev
 ```
